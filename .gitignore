@@ -1,0 +1,12 @@
+# Virtual environment
+BD/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code / OS noise
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+path: D:/Hackatronix_2.0/Task-1_Ball_Detection/Dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+
+names:
+  0: ball
